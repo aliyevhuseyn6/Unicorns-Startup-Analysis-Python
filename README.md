@@ -1,4 +1,4 @@
-# Unicorns-Startup-Analysis-Python
+# Unicorns-Startups-Analysis-Python
 
 This is a project named 'Unicorn Startups Analysis', which is carried out by using Python programming language. The following sections for data analysis are covered in this project:
 
@@ -18,4 +18,4 @@ The objective of this project is to reveal some insights about Unicorn Startups 
   * Analyzing growth trends in the overall market
   * Figuring out the most successful investors by the number of unicorns
 
-
+This data is available on the Kaggle platform as a publicly available resource. The source is in CSV format with data updated till September 2022. The table contains 7 columns, which represents the feature of unicorn startups such as valuation (in USD billion), date of becoming a unicorn, geographical information such as country and city, the industry in which this company specializes, and name of investors.
